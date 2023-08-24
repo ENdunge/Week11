@@ -1,7 +1,7 @@
 {
-  "name": "Week 11 Automation",
+  "name": "Week11-Project",
   "projectId": "e5e2d8b6-ac60-4ea1-b773-9f3934296b09",
-  "description": "Week 11 Automation",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
